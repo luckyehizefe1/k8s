@@ -21,7 +21,7 @@ metadata:
 data:
   BG_COLOR: '#12181b'
   FONT_COLOR: '#FFFFFF'
-  CUSTOM_HEADER: 'DevOps Journey!'
+  CUSTOM_HEADER: 'Lucky Ehizefe DevOps Journey!'
 ---
 apiVersion: apps/v1
 kind: Deployment
